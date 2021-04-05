@@ -51,4 +51,4 @@ From the data available, I focused the analysis on three prisms:
 - difference between the starting price and the sold price
 - user traffic and connection informations
 
-The analysis was carried out in a jupyter notebook and presented in a google slides document (current repository)
+The analysis was carried out in a jupyter notebook
