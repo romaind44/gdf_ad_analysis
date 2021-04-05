@@ -41,14 +41,14 @@ Finally, it can run the docker container on local machine:
 After a first exchange information with the Talent Acquisition Manager, I noted two important issues beyond the growth in the number of users:
 
 - the increase in the activity of these users
-- the development of new verticals
+- the development of new verticals (existing :real estate and vehicle)
 
-In terms of products and features, the website already seems to purpose a referrers recommendation engine and an ad suggestion engine.
+In terms of products and features, the website already seems to purpose a referrers recommendation engine and an ad suggestion/category engine.
 
 From the data available, I focused the analysis on three prisms:
 
 - mapping of users
 - difference between the starting price and the sold price
-- user traffic and connection informations
+- nature of the audience
 
 The analysis was carried out in a jupyter notebook
